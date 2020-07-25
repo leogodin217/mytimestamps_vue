@@ -1,4 +1,5 @@
 # mytimestamps_vue
+Logging for your life!
 
 ## Project setup
 ```
